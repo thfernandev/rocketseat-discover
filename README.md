@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Agregador de lings para cartão de visita online.
+Agregador de links para cartão de visita online.
 
 ## 🔖 Layout
 
