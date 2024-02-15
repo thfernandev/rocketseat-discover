@@ -46,10 +46,12 @@ padding: 0 24px;
     text-align: center;
     padding: 24px;
 }
-#profile p {
+#profile a {
+    display: block;
     font-weight: 500;
     line-height: 24px;
     margin-top: 8px;
+    text-decoration: none;
 }
 #profile img {
     width: 112px;
